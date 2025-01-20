@@ -8,3 +8,7 @@ VS Code extension for draw.io - https://marketplace.visualstudio.com/items?itemN
 Open the `ghost.draw.io` file using the extension and enjoy the fun!
 
 ![Alt text](<navigation-demo.gif>)
+
+# Copyright & license
+
+Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
