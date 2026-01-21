@@ -11,4 +11,4 @@ Open the `ghost.draw.io` file using the extension and enjoy the fun!
 
 # Copyright & license
 
-Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
+Copyright (c) 2013-2026 Ghost Foundation - Released under the [MIT license](LICENSE).
