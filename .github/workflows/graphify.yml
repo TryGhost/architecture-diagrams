@@ -1,0 +1,12 @@
+name: graphify
+
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'graphify-out/**'
+
+jobs:
+  graphify:
+    uses: branchLeft/github-workflows/.github/workflows/graphify.yml@v1
+    secrets: inherit
